@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**rakhiPurwar/rakhiPurwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a pre final year CSE Student at BMS Institute of Technology, Bangalore. with a passion for mobile application development and trying out my hands at the new innovations & research in the field of Mobile Development, Deep Learning and AI. I am trying contribute to open source and was a participant at **GirlScript Summer of Code 2020**.
+I am a firm believer of lifelong learning which is an essential aspect of thriving as a software engineer which I aspire to become :dizzy:
 
-Here are some ideas to get you started:
+*** 
 
-- 🔭 I’m currently working on Machine Learning:machine:,Python :snake:
+- 🔭 I’m currently working on Machine Learning:purple_heart:,Python :snake:
 - 🌱 I’m currently learning how to implement various Machine Learning models.
-- 👯 I’m looking to collaborate on a project that matches my interests of machime learning.
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on a project that matches my interests of machine learning or frontend web development.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rakhi-purwar-0463a7170/)
+ <!---
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
