@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a pre final year CSE Student at BMS Institute of Technology, Bangalore. I am trying out my hands at the new innovations & research in the field of Machine Learning, Deep Learning and AI. I have just started contributing to open source and was a participant at **GirlScript Summer of Code 2020**.
+I'm a pre-final year CSE Student at BMS Institute of Technology, Bangalore. I am trying out my hands at the new innovations & research in the field of Machine Learning, Deep Learning and AI. I have just started contributing to open source and looking forward to contributing more. 
 I am a firm believer of lifelong learning which is an essential aspect of thriving as a software engineer which I aspire to become :dizzy:
 
 *** 
