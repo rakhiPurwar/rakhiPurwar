@@ -9,8 +9,11 @@ I am a firm believer of lifelong learning which is an essential aspect of thrivi
 - 🌱 I’m currently learning how to implement various Machine Learning models.
 - 👯 I’m looking to collaborate on a project that matches my interests of machine learning, frontend web development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rakhi-purwar-0463a7170/)
+<img src="https://github-readme-stats.vercel.app/api?username=rakhiPurwar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
  <!---
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
