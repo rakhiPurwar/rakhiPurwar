@@ -33,8 +33,11 @@ I am a firm believer of lifelong learning which is an essential aspect of thrivi
         <img src="https://cdn1.vectorstock.com/i/1000x1000/77/30/sql-database-icon-logo-design-ui-or-ux-app-vector-17507730.jpg" width="50"/>        
       </p>
     </p>
+    
+---
 
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
 
-[![Rakhi's github stats](https://github-readme-stats.vercel.app/api?username=rakhiPurwar)](https://github.com/rakhiPurwar/github-readme-stats)
+[![Rakhi's github stats](https://github-readme-stats.vercel.app/api?username=rakhiPurwar)](https://github.com/rakhiPurwar/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhiPurwar)](https://github.com/rakhiPurwar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhiPurwar)](https://github.com/rakhiPurwar/github-readme-stats)  
