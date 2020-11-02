@@ -17,6 +17,8 @@ I am a firm believer of lifelong learning which is an essential aspect of thrivi
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rakhi-purwar-0463a7170/), [Gmail](rakhipurwar20@gmail.com).
 - ⚡ Fun fact: I am a complete travel freak and I prefer tea 😍 over coffee ☕😅
 
+---
+
 👸 Languages and Tools:<p align="center"></p>
       <p align="center">
         <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code> 
