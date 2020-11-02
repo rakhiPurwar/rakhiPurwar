@@ -10,13 +10,13 @@ I am a firm believer of lifelong learning which is an essential aspect of thrivi
 
  <img align = "right"  width = "350"  src="https://miro.medium.com/max/875/0*K2WLMTExLyida7OR.gif" >
 
-- 🔭 I’m currently working on Machine Learning :purple_heart:, Python :snake:, Deep Learning.
+- 🔭 I’m currently working on Machine Learning :purple_heart:, Python :snake:, Deep Learning and looking forward to learn Open Cv.
 - 🌱 I’m currently learning how to implement various Deep Learning models.
-- 👯 I’m looking to collaborate on a project that matches my interests of ML/DL.
+- 👯 I’m looking to collaborate on a project that matches my interests of ML/DL and NLP.
 - 🔍 I’m looking for an internship in the field.😎
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rakhi-purwar-0463a7170/), [Gmail](rakhipurwar20@gmail.com).
 - 👯 I’m enjoy competitive programming 💻
-- ⚡ Fun fact: I am crazy about travel, I am a complete travel freak and I prefer tea 😍 over coffee ☕😅
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rakhi-purwar-0463a7170/), [Gmail](rakhipurwar20@gmail.com).
+- ⚡ Fun fact: I am a complete travel freak and I prefer tea 😍 over coffee ☕😅
 
 👸 Languages and Tools:<p align="center"></p>
       <p align="center">
