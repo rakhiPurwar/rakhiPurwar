@@ -13,7 +13,7 @@ I am a firm believer of lifelong learning which is an essential aspect of thrivi
 - 🌱 I’m currently learning how to implement various Deep Learning models.
 - 👯 I’m looking to collaborate on a project that matches my interests of ML/DL and NLP.
 - 🔍 I’m looking for an internship in the field.😎
-- 👯 I’m enjoy competitive programming 💻
+- 👯 I’m enjoying competitive programming but need to practice more 💻
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rakhi-purwar-0463a7170/), [Gmail](rakhipurwar20@gmail.com).
 - ⚡ Fun fact: I am a complete travel freak and tea❤ >> coffee ☕😅
 
