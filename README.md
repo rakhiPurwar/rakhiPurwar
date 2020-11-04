@@ -15,7 +15,7 @@ I am a firm believer of lifelong learning which is an essential aspect of thrivi
 - 🔍 I’m looking for an internship in the field.😎
 - 👯 I’m enjoy competitive programming 💻
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rakhi-purwar-0463a7170/), [Gmail](rakhipurwar20@gmail.com).
-- ⚡ Fun fact: I am a complete travel freak and I prefer tea 😍 over coffee ☕😅
+- ⚡ Fun fact: I am a complete travel freak and tea❤ >> coffee ☕😅
 
 ---
 
