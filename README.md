@@ -7,7 +7,7 @@ I am a firm believer of lifelong learning which is an essential aspect of thrivi
 
 *** 
 
- <img align = "right"  width = "450"  src="https://miro.medium.com/max/875/0*K2WLMTExLyida7OR.gif" >
+ <img align = "right"  width = "350"  src="https://miro.medium.com/max/875/0*K2WLMTExLyida7OR.gif" >
 
 - 🔭 I’m currently working on Machine Learning :purple_heart:, Python :snake:, Deep Learning and looking forward to learn Open Cv.
 - 🌱 I’m currently learning how to implement various Deep Learning models.
