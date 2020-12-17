@@ -14,6 +14,7 @@ I am a firm believer of lifelong learning which is an essential aspect of thrivi
 - 👯 I’m looking to collaborate on a project that matches my interests of ML/DL and NLP.
 - 🔍 I’m looking for an internship so that I can gain some practical experience on how the corporate world works, and how I can apply my knowledge of ML/Dl in building something useful to real world and learn more. 😎
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rakhi-purwar-0463a7170/), [Gmail](rakhipurwar20@gmail.com).
+- 💪 Most Important trait: Willingness to learn new skills is one of the most important qualities employers look for when hiring new employees and I have got that.
 - ⚡ Fun fact: I am a complete travel freak and tea❤ >> coffee ☕😅
 
 ---
