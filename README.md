@@ -2,16 +2,15 @@
 <p align="left"> 
 
 
-I'm a pre-final year CSE Student at BMS Institute of Technology 🏫 Bangalore. I am trying out my hands at the new innovations💥& research in the field of Machine Learning, Deep Learning and AI. I have just started contributing to open source and looking forward to contributing more. 
+I'm a pre-final year CSE Student at BMS Institute of Technology 🏫 Bangalore. I like to solve open-ended problems with intuitive and innovative solutions. Looking for opportunities in the field of software development. Engaged in learning new libraries and features to account for better performance of the technologies and amplified user experience. I have just started contributing to open source and looking forward to contributing more. 
 I am a firm believer of lifelong learning which is an essential aspect of thriving as a software engineer which I aspire to become :dizzy:
 
 *** 
 # My Story 😊👩
  <img align = "right"  width = "350"  src="https://miro.medium.com/max/875/0*K2WLMTExLyida7OR.gif" >
 
-- 🔭 I’m currently working on Machine Learning :purple_heart:, Python :snake:, Deep Learning and looking forward to learn Open Cv.
-- 🌱 I’m currently learning how to implement various Deep Learning models.
-- 👯 I’m looking to collaborate on a project that matches my interests of ML/DL and NLP.
+- 🔭 I’m currently learning Flutter and looking forward to learn Web development.
+- 👯 I’m looking to collaborate on a project that matches my interests of ML/DL/FLutter.
 - 🔍 I’m looking for an internship so that I can gain some practical experience on how the corporate world works, and how I can apply my knowledge of ML/Dl in building something useful to real world and learn more. 😎
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rakhi-purwar-0463a7170/), [Gmail](rakhipurwar20@gmail.com).
 - 💪 Most Important trait: Willingness to learn new skills is one of the most important qualities employers look for when hiring new employees and I have got that.
