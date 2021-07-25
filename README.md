@@ -2,7 +2,7 @@
 <p align="left"> 
 
 
-I'm a pre-final year CSE Student at BMS Institute of Technology 🏫 Bangalore. I like to solve open-ended problems with intuitive and innovative solutions. Looking for opportunities in the field of software development. Engaged in learning new libraries and features to account for better performance of the technologies and amplified user experience. I have just started contributing to open source and looking forward to contributing more. 
+I'm a final year CSE Student at BMS Institute of Technology 🏫 Bangalore. I like to solve open-ended problems with intuitive and innovative solutions. Looking for opportunities in the field of software development. Engaged in learning new libraries and features to account for better performance of the technologies and amplified user experience. I have just started contributing to open source and looking forward to contributing more. 
 I am a firm believer of lifelong learning which is an essential aspect of thriving as a software engineer which I aspire to become :dizzy:
 
 *** 
